@@ -2,8 +2,6 @@
 
 ### Classification of Financial Anomalies
 Our main motto is to find the fraud in the Finanacial Transaction in all over the world transactions.
-Financial Anamolies are mainly divided into two classes. One is Global Anamoly and another one is Local Anamoly.
-
 
 Derived from this observation we distinguish two classes of anomalous journal entries, namely **"global"** and **"local" anomalies** as illustrated in **Figure 2** below:
 
